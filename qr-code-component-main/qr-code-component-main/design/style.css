@@ -4,9 +4,22 @@
   position: absolute;
   background-color: hsl(212, 45%, 89%); /* Slate 300 */
 }
+.container-1 {
+  width: 375px;
+  height: 100%;
+  position: absolute;
+  background-color: hsl(212, 45%, 89%); /* Slate 300 */
+}
 .card-con {
   background-color: white;
-  margin: 15% auto;
+  margin: 10% auto;
+  width: 320px;
+  height: 540px;
+  border-radius: 10px;
+}
+.card-con1 {
+  background-color: white;
+  margin: 50% auto;
   width: 320px;
   height: 540px;
   border-radius: 10px;
@@ -22,7 +35,6 @@
   text-align: center;
   font-weight: 400 700;
   font-family: Outfit;
-  
 }
 .paragraph {
   font-size: 15px;
