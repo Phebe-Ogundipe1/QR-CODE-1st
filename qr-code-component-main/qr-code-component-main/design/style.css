@@ -8,14 +8,16 @@
   width: 375px;
   height: 100%;
   position: absolute;
+
   background-color: hsl(212, 45%, 89%); /* Slate 300 */
 }
 .card-con {
   background-color: white;
   margin: 10% auto;
   width: 320px;
-  height: 540px;
+  height: 530px;
   border-radius: 10px;
+  padding: 1rem;
 }
 .card-con1 {
   background-color: white;
@@ -26,17 +28,15 @@
 }
 .image {
   border-radius: 20px;
-  width: 300px;
-  height: 300px;
-  padding: 10px;
+  width: 323px;
+  height: 340px;
 }
 .card-text {
-  padding: 10px;
   text-align: center;
   font-weight: 400 700;
   font-family: Outfit;
 }
 .paragraph {
   font-size: 15px;
-  padding: 2px 29px 30px;
+  
 }
